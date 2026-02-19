@@ -141,8 +141,7 @@ Phased deployment to avoid business disruption:
 
 ## Repository Contents
 
-- `/diagram` — Network and traffic flow diagrams
-- `/assets/exports` — Original project deliverables
+- `/Assets/` — Original project deliverables
 
 ---
 
