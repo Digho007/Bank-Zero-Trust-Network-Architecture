@@ -140,8 +140,7 @@ Phased deployment to avoid business disruption:
 
 ## Repository Contents
 
-- `/docs` — Detailed architecture documentation
-- `/diagrams` — Network and traffic flow diagrams
+- `/diagram` — Network and traffic flow diagrams
 - `/assets/exports` — Original project deliverables
 
 ---
